@@ -3,7 +3,8 @@
 
 #Database
 *.sqlite3
-
+##ficheros  de texto
+runtime.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
